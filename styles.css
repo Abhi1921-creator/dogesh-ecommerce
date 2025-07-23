@@ -1,0 +1,43 @@
+#title{background-color: #ff4c68;color: #fff;}
+h1{font-size: 3.5rem;line-height: 1.5;font-family:'Open Sans';}
+.body{font-family: sans-serif;}
+.navbar-brand{font-family:cursive;
+font-size: 2.5rem;font-weight: bold;}
+.navbar {padding:0 0 4.5rem;}
+.nav-item{padding: 0 18px;}
+.nav-link{font-size: 1.2rem;font-family: Arial, Helvetica, sans-serif;}
+.container-fluid {padding: 3% 15% 7%;}
+.download-button{margin: 5% 3% 5% 0;}
+.title-image{width: 60%; transform: rotate(25deg);position: absolute;right: 30%;}
+.icon{width: 200px;margin-bottom: 20px;}
+p{color:#8f8f8f;}
+#features{padding: 7% 10%;position: relative;z-index: 1;background-color: #fff;}
+.features-box{text-align: center;padding: 5%;}
+h3{color: #129cc1;font-size: 30px;font-weight: 500;}
+#testimonials{background-color: #ef8172;color: #fff;text-align: center;}
+h2{font-size: 3rem;}
+.testimonials-image{width: 10%;border-radius: 100%;margin: 20px;}
+#press{background-color: #ef8172;text-align: center;padding-bottom: 5%;}
+.press-logo{width: 15%;margin: 20px 20px 50px;}
+.carousel-item{padding: 7% 10%;}
+#pricing{padding: 100px;text-align: center;}
+.pricing-column {padding: 3% 2%;}
+@media (max-width:1028px) {.title-image{position:static;transform: rotate(0);} #title{text-align: center;}}
+#cta{background-color: #ff4c68;text-align: center;padding:7% 15%;}
+.heading{padding-top: 50px;color: #fff;font-family: unset;text-align: center;}
+.copyright{font-size: 0.75rem;color:gray; padding-top: 15px;}
+#footer{background-color:#fff;padding: 7% 15%;text-align: center;}
+.fotter-1{margin-right: 15px;}
+.social-icons {
+  margin-bottom: 20px;
+}
+
+.fotter-1 {
+  font-size: 24px;
+  margin: 0 10px;
+  color: #333;
+}
+
+.fotter-1:hover {
+  color: #000;
+}
